@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  background-color: #fff;
+}
+
+.navbar {
+  padding: 25px;
+  background-color: #d8d8d8;
+}
+
+.rectangle {
+  height: 100px;
+  width: 100px;
+  background-color: #5b8fdc;
+}
+
+.h-25 {
+  height: 25vh;
+}
+
+.h-40 {
+  height: 40vh;
+}
+
+.cyan {
+  background-color: #5b8fdc;
+}
+
+.turquoise {
+  background-color: #7be0c3;
+}
+
+.green {
+  background-color: #c2e791;
+}
+
+.yellow {
+  background-color: #f5e752;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 25px;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
